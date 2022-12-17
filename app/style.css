@@ -1,0 +1,27 @@
+.cont {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    background-color: rgb(11, 139, 11);
+    color: white;
+    padding: 10px;
+    position: absolute;
+    z-index: 1;
+}
+
+.btn:hover {
+    background-color:  rgb(42, 124, 42);
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    position: absolute;
+}
+
